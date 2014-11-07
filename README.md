@@ -1,3 +1,0 @@
-MacAdminTest
-============
-Best app ever
